@@ -1,0 +1,17 @@
+.teleport_logo {
+
+    width: 350px;
+    border-radius: 50%;
+    margin-left: 650px;
+}
+body {
+   background-color: rgba(255, 0, 0, 0.719);
+   border: 0;
+}
+.bangers-regular {
+    color: #ffffff;
+    margin-left: 750px;
+        font-family: "Bangers", serif;
+        font-weight: 400;
+        font-style: normal; 
+}
